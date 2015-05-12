@@ -1,6 +1,6 @@
 {
   "name": "trim-with",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "trim an array with a function for each element",
   "main": "index.js",
   "scripts": {
