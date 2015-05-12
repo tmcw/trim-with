@@ -15,5 +15,9 @@
   "license": "ISC",
   "devDependencies": {
     "tape": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tmcw/trim-with.git"
   }
 }
