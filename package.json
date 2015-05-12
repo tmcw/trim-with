@@ -1,0 +1,19 @@
+{
+  "name": "trim-with",
+  "version": "1.0.0",
+  "description": "trim an array with a function for each element",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "trim",
+    "array",
+    "with"
+  ],
+  "author": "Tom MacWright",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
