@@ -1,5 +1,7 @@
 # trim-with
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/trim-with.svg)](https://greenkeeper.io/)
+
 Functional array trimming: provide a function that decides whether a value
 is falsy, and this trims the array from both sides.
 
